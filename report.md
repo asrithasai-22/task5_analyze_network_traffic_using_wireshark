@@ -8,6 +8,7 @@ Protocols Identified
 3)DNS (Domain Name System) - Used to resolve domain names to IP addresses before HTTP connections were established
 
 Packet Details
+
 1)TCP Handshake: Observed the classic SYN → SYN-ACK → ACK sequence
 2)HTTP Requests: GET requests for web pages and associated resources
 3)DNS Queries: Requests to resolve domain names to IP addresses
